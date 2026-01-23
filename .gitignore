@@ -1,0 +1,25 @@
+# Compiled executables
+*-template
+!*-template.c
+
+# Object files
+*.o
+*.obj
+
+# Test files created by exercises
+test_file.txt
+*.dat
+
+# Debug files
+*.dSYM/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
