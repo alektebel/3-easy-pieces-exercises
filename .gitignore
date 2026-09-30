@@ -23,3 +23,6 @@ test_file.txt
 # OS files
 .DS_Store
 Thumbs.db
+
+# ad-hoc build output
+intro/threads
